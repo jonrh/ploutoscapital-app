@@ -1,2 +1,8 @@
 # Jetbrains IDE settings folder for example WebStorm
 .idea/
+
+# macOS Finder folder settings
+.DS_Store
+
+# NPM third party dependencies
+node_modules
